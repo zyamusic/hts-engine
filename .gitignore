@@ -2,3 +2,8 @@ Makefile
 config.log
 config.status
 configure.ac
+*.o
+*.a
+hts_engine
+*.cache
+*.deps
